@@ -1,2 +1,2 @@
-#!/bin/bas
-sudo chown -R vicent:staff *
+#!/bin/bash
+chown -R vincent:staff *
